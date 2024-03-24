@@ -5,7 +5,8 @@ To download the dataset you can run :
 python download_octmnist.py
 
 Implemented with the following structure:
-    • A convolution layer with 8 output channels, a kernel of size 3x3, stride of 1, and padding chosen to preserve the original image size. /n
+    • A convolution layer with 8 output channels, a kernel of size 3x3, stride of 1, and padding chosen to preserve the original image size.
+    
     • A rectified linear unit activation function.
     • A max pooling with kernel size 2x2 and stride of 2.
     • A convolution layer with 16 output channels, a kernel of size 3x3, stride of 1, and padding of zero.
