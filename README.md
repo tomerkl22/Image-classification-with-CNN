@@ -1,4 +1,6 @@
-Image classification with CNNs. I implemented a convolutional neural network to perform classification using the OCTMNIST dataset using pytorch.
+I executed image classification using Convolutional Neural Networks (CNNs) by implementing a model with PyTorch. 
+The classification task was performed on the OCTMNIST dataset, showcasing the effectiveness of CNNs in handling image data.
+
 
 To download the dataset you can run : 
 
